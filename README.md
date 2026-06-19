@@ -10,7 +10,9 @@ If you need to put Entra ID authentication in front of an app running behind
 Application Gateway or on Kubernetes, you can use **Envoy** and its built-in
 OAuth2 filter, as shown in this example. See the Envoy OAuth2 filter
 documentation:
-<https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/oauth2_filter>
+<https://www.envoyproxy.io/>
+
+**  Envoyproxy is better now than oauth2-proxy because of CVE. **
 
 ---
 
