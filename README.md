@@ -1,0 +1,1 @@
+# Envoy-as-an-OAuth2-proxy-Entra-ID-for-on-AKS
